@@ -1,4 +1,0 @@
-hi
-dis is aws ami file
-
-
